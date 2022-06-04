@@ -1,0 +1,122 @@
+body{
+    display: flex;
+    flex-direction: column;
+    height: 550px;
+    width: 600px;
+    flex-wrap: wrap;
+    background-color: #9b9797;
+    margin-left: 381px;
+    border-radius: 2rem;
+}
+header{
+    display:flex;
+    flex-direction: row;
+    height: 4.5rem;
+    width: 35.3rem;
+    background-color: #e6e7dc;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 0rems;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+
+}
+.Punto1{
+    width: 1.6rem;
+    height: 1.6rem;
+    background-color: rgb(255, 97, 92);
+    border-radius: 2rem;
+    margin-top: 1.4rem;
+    margin-left: 1rem;   
+}
+.Punto2{
+    width: 1.6rem;
+    height: 1.6rem;
+    background-color: rgb(255, 196, 4);
+    border-radius: 2rem;
+    margin-top: 1.4rem;
+    margin-left: 1rem;   
+}
+.Punto3{
+    width: 1.6rem;
+    height: 1.6rem;
+    background-color: rgb(67, 221, 6);
+    border-radius: 2rem;
+    margin-top: 1.4rem;
+    margin-left: 1rem;   
+}
+article{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 27.5rem;
+    width: 35.3rem;
+    background-color: white;
+    margin-left: 1rem;
+    margin-top: 0rem;
+    margin-bottom: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    
+}
+.Ventana1{
+    width: 23rem;
+    height: 5rem;
+    background-color: rgb(255, 97, 92);
+    margin:0.5rem;
+}
+.Ventana2{
+    width: 15rem;
+    height: 15.2rem;
+    background-color: rgb(255, 196, 4);
+    margin: 0.5rem;
+    margin-top: 0rem;
+}
+.Ventana6{
+    width: 11.1rem;
+    height: 5rem;
+    background-color: rgb(22, 102, 122);
+    margin: 0.5rem;
+    margin-top: 0rem;
+}
+.Ventana3{
+    width: 10.6rem;
+    height: 5rem;
+    background-color: rgb(255, 97, 92);
+    margin: 0.5rem;
+    margin-left: 0rem;
+}
+.Ventana4{
+    width: 18.6rem;
+    height: 7.3rem;
+    background-color: purple;
+    margin:0.5rem;
+    margin-top: 0rem;
+    margin-left: -8rem;
+}
+.Ventana5{
+    width: 18.6rem;
+    height: 7.3rem;
+    background-color: purple;
+    margin:0.5rem;
+    margin-top: 0rem;
+    margin-left: -8rem;
+}
+.Ventana7{
+    width: 11.1rem;
+    height: 5rem;
+    background-color: rgb(22, 102, 122);
+    margin: 0.5rem;
+    margin-top: 21.7rem;
+    margin-left: -20rem;
+    align-self: flex-end;
+    
+}
+.Ventana8{
+    width: 11.1rem;
+    height: 5rem;
+    background-color: rgb(22, 102, 122);
+    margin: 0.5rem;
+    margin-top: 0.1rem;
+    margin-left: -12rem;
+}

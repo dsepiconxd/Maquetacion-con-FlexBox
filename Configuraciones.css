@@ -1,0 +1,8 @@
+*{
+    margin: 1px;
+    padding: 1px;
+    box-sizing: border-box;
+}
+html{background-color: rgb(175, 240, 235);
+    align-items: center;
+}
